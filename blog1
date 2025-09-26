@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Maravilla Martínez - Historia</title>
+</head>
+<body>
+  <h1>Adrián "Maravilla" Martínez</h1>
+  <h2>De Las Acacias al Cilindro</h2>
+  
+  <p>
+    Adrián Emmanuel Martínez, conocido como <b>"Maravilla"</b>, nació el 7 de julio de 1992 en Campana.
+    Su camino al fútbol profesional no fue fácil: trabajó como recolector de basura y albañil,
+    y a los 22 años vivió un momento muy duro cuando fue detenido por error y pasó meses en prisión.
+  </p>
+
+  <p>
+    Pese a todo, nunca bajó los brazos. Volvió a jugar en su barrio y luego debutó en el fútbol
+    profesional con Defensores Unidos en 2015. Desde ahí comenzó un camino de superación constante.
+  </p>
+
+  <h3>Etapas claves:</h3>
+  <ul>
+    <li>Infancia en Campana y en el club Las Acacias.</li>
+    <li>Trabajos duros para ayudar a su familia.</li>
+    <li>Meses de prisión injusta en 2014.</li>
+    <li>Renacer futbolístico con Defensores Unidos.</li>
+  </ul>
+
+  <a href="blog2.html">➡ Ir a la segunda parte: su gloria en Racing</a><br>
+  <a href="index.html">⬅ Volver al inicio</a>
+</body>
+</html>
